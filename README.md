@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![FixitByAI Logo](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+![FixitByAI Logo]([app/src/main/res/mipmap-xxxhdpi/ic_launcher.png](https://github.com/elidrissitv/FixitByAI/blob/main/fixitbyai.png))
 
 _Votre assistant intelligent pour la réparation d'appareils_
 
