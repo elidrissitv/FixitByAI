@@ -1,10 +1,8 @@
-<<<<<<< HEAD
-
 # 🛠️ FixitByAI
 
 <div align="center">
 
-![FixitByAI Logo](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+<img src="https://raw.githubusercontent.com/elidrissitv/FixitByAI/main/fixitbyai.png" alt="FixitByAI Logo" width="150"/>
 
 _Votre assistant intelligent pour la réparation d'appareils_
 
@@ -117,7 +115,3 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 <div align="center">
 Made with ❤️ by YASYN
 </div>
-=======
-# FixitByAI
-FixitByAI - Assistant de Réparation Intelligent
->>>>>>> bbad3d63b78759f08ad472ace2fb6be5c69e9796
