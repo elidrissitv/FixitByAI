@@ -1,0 +1,28 @@
+# Fichiers de build Android
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Fichiers de configuration sensibles
+app/src/main/java/com/ests/fixitbyai/Config.java
+app/src/main/java/com/ests/fixitbyai/Keys.java
+
+# Fichiers de logs
+*.log
+
+# Fichiers de cache
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/

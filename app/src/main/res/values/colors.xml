@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Couleurs principales -->
+    <color name="primary">#6200EE</color>
+    <color name="primary_dark">#3700B3</color>
+    <color name="primary_light">#BB86FC</color>
+    <color name="secondary">#03DAC6</color>
+    <color name="secondary_dark">#018786</color>
+    <color name="secondary_light">#80CBC4</color>
+    
+    <!-- Couleurs de fond -->
+    <color name="background">#FFFFFF</color>
+    <color name="background_light">#FFFFFF</color>
+    <color name="background_dark">#121212</color>
+    
+    <!-- Couleurs de texte -->
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#757575</color>
+    
+    <!-- Couleurs système -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Mode sombre -->
+    <color name="dark_background">#121212</color>
+    <color name="dark_surface">#1E1E1E</color>
+    <color name="dark_text">#FFFFFF</color>
+
+    <!-- États -->
+    <color name="success">#00C48C</color>
+    <color name="error">#FF6B6B</color>
+    <color name="warning">#FFB74D</color>
+    <color name="info">#4A90E2</color>
+
+    <!-- Gradients -->
+    <color name="gradient_start">#4A90E2</color>
+    <color name="gradient_end">#00C48C</color>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FixitByAI</string>
+    
+    <!-- Navigation -->
+    <string name="title_search">Recherche</string>
+    <string name="title_voice">Voix</string>
+    <string name="title_camera">Photo</string>
+    
+    <!-- Recherche -->
+    <string name="search_hint">Rechercher un guide de réparation…</string>
+    <string name="voice_search_hint">Appuyez pour parler</string>
+    <string name="camera_hint">Prenez une photo de l\'objet à réparer</string>
+    
+    <!-- Messages -->
+    <string name="error_permission_denied">Les permissions nécessaires ont été refusées</string>
+    <string name="error_voice_recognition">Erreur de reconnaissance vocale</string>
+    <string name="error_image_recognition">Erreur de reconnaissance d\'image</string>
+    
+    <!-- Guide -->
+    <string name="difficulty_format">Difficulté : %s</string>
+    <string name="no_guides_found">Aucun guide trouvé</string>
+    <string name="loading">Chargement…</string>
+    
+    <!-- Image Recognition -->
+    <string name="capture_photo">Prendre une photo</string>
+    <string name="import_photo">Importer une photo</string>
+    <string name="enter_prompt">Entrez votre question sur l\'objet détecté…</string>
+    <string name="send_prompt">Envoyer</string>
+    
+    <!-- Voice Recognition -->
+    <string name="start_voice">Démarrer la reconnaissance vocale</string>
+    <string name="stop_voice">Arrêter</string>
+    <string name="voice_hint">Appuyez pour parler</string>
+    
+    <!-- Search -->
+    <string name="search_button">Rechercher</string>
+    
+    <!-- New string -->
+    <string name="image_preview_description">Aperçu de l\'image sélectionnée</string>
+</resources>
