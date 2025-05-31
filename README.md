@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # 🛠️ FixitByAI
 
 <div align="center">
@@ -117,5 +115,3 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 <div align="center">
 Made with ❤️ by YASYN
 </div>
-=======
->>>>>>>
