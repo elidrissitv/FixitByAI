@@ -2,7 +2,11 @@
 
 <div align="center">
 
-![FixitByAI Logo](https://raw.githubusercontent.com/elidrissitv/FixitByAI/main/fixitbyai.png)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/elidrissitv/FixitByAI/main/fixitbyai.png" alt="FixitByAI Logo" width="150"/>
+
+</div>
 
 _Votre assistant intelligent pour la réparation d'appareils_
 
